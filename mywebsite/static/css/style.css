@@ -1,0 +1,8 @@
+li:hover{
+    background-color: yellow;
+    border-radius: 15px;
+    
+}
+.c-img{
+   filter: blur(1%) contrast(175%) brightness(90%);
+}
